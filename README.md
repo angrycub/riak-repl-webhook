@@ -20,7 +20,7 @@ Distribution | Path
 Then you can build the hook by doing the following:
 
 	$ cd /path/to/riak
-	$ git clone git://github.com/nathanaschbacher/riak-repl-webook.git
+	$ git clone git://github.com/nathanaschbacher/riak-repl-webhook.git
 	$ cd riak-repl-webhook
 	$ make
 	
