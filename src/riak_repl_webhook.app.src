@@ -1,0 +1,13 @@
+{application, riak_repl_webhook,
+ [
+  {description, "riak_repl_webhook"},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  ibrowse
+                 ]},
+  {modules, [riak_repl_webhook]},
+  {env, []}
+ ]}.
